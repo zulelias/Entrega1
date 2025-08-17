@@ -1,3 +1,4 @@
+// src/pages/Home.tsx
 import { Link } from 'react-router-dom';
 
 function Home() {
@@ -11,7 +12,7 @@ function Home() {
           borderBottom: '1px solid #ccc',
         }}
       >
-        <div style={{ position: 'absolute', top: 20, left: 20 }}>
+          <div style={{ position: 'absolute', top: 20, left: 20 }}>
           <Link to="/">
              <img
               src="/images/logo.jpg"
@@ -19,7 +20,7 @@ function Home() {
               style={{ width: 60, cursor: 'pointer' }}
           />
         </Link>
-</div>
+   </div>
       </header>
 
       <main style={{ textAlign: 'center', marginTop: 40 }}>
