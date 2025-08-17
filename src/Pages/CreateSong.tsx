@@ -1,7 +1,7 @@
 // src/Pages/CreateSong.tsx
 import React, { useState } from 'react';
 import { useMutation, useQueryClient } from '@tanstack/react-query';
-import { musicService } from '../services/Service';
+import { musicService } from '../Services/Service';
 
 const CreateSong: React.FC = () => {
   const queryClient = useQueryClient();
