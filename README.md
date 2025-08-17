@@ -13,7 +13,7 @@ Aplicación SPA desarrollada con React. Permite visualizar, crear y explorar can
 - Creación de nuevas canciones
 - Manejo de errores y carga
 - Integración con React Query para datos asincrónicos
-
+- video/screenshot: https://drive.google.com/file/d/1HVb-EEFhlNbYkNiFF0j8ASl9YDjrc4gn/view?usp=drive_link
 ## 🛠️ Tecnologías utilizadas
 
 - React
